@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "DART: Domain-Adaptive Response Transfer"
+message: "If you use this code, please cite the accompanying manuscript."
+authors:
+  - family-names: "NEEDS_MANUAL_CONFIRMATION"
+    given-names: "NEEDS_MANUAL_CONFIRMATION"
+repository-code: "https://github.com/biobiobioZ/DART"
+date-released: "2026-07-12"
